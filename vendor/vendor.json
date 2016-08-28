@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BBm5hA17+ICUGERrueuULXwSmmk=",
+			"path": "github.com/golang/protobuf/jsonpb",
+			"revision": "888eb0692c857ec880338addf316bd662d5e630e",
+			"revisionTime": "2016-08-23T21:25:17Z"
+		},
+		{
+			"checksumSHA1": "F/rDbVt0AU9/MSf+5f+EzEK1daY=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "888eb0692c857ec880338addf316bd662d5e630e",
+			"revisionTime": "2016-08-23T21:25:17Z"
+		}
+	],
+	"rootPath": "unyaa.com/protogen.descriptorreader"
+}
